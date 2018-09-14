@@ -1,0 +1,68 @@
+D:\NapierBank\NapierBank\NapierBank\bin\Debug\NapierBank.exe.config
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.MainMenu.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.Properties.Resources.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendTweet.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewMessages.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewTweets.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.csproj.GenerateResource.Cache
+D:\NapierBank\NapierBank\NapierBank\bin\Debug\NapierBank.exe
+D:\NapierBank\NapierBank\NapierBank\bin\Debug\NapierBank.pdb
+D:\NapierBank\NapierBank\NapierBank\bin\Debug\Newtonsoft.Json.dll
+D:\NapierBank\NapierBank\NapierBank\bin\Debug\Newtonsoft.Json.xml
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.exe
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.pdb
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendEmail.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendSIR.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendSMS.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewEmails.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewSIRs.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewSMSTexts.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.csprojResolveAssemblyReference.cache
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewMentions.resources
+D:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewTrending.resources
+F:\NapierBank\NapierBank\NapierBank\bin\Debug\NapierBank.exe.config
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.exe
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.pdb
+F:\NapierBank\NapierBank\NapierBank\bin\Debug\NapierBank.exe
+F:\NapierBank\NapierBank\NapierBank\bin\Debug\NapierBank.pdb
+F:\NapierBank\NapierBank\NapierBank\bin\Debug\Newtonsoft.Json.dll
+F:\NapierBank\NapierBank\NapierBank\bin\Debug\Newtonsoft.Json.xml
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.csprojResolveAssemblyReference.cache
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.MainMenu.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.Properties.Resources.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendEmail.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendSIR.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendSMS.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendTweet.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewEmails.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewMentions.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewMessages.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewSIRs.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewSMSTexts.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewTrending.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewTweets.resources
+F:\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.csproj.GenerateResource.Cache
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\bin\Debug\NapierBank.exe.config
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\bin\Debug\NapierBank.exe
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\bin\Debug\NapierBank.pdb
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.csprojAssemblyReference.cache
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.MainMenu.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.Properties.Resources.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendEmail.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendSIR.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendSMS.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.SendTweet.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewEmails.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewMentions.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewMessages.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewSIRs.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewSMSTexts.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewTrending.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.ViewTweets.resources
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.csproj.GenerateResource.cache
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.csproj.CoreCompileInputs.cache
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.csproj.CopyComplete
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.exe
+C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.pdb

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NapierBank.Email">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>Email.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.MainMenu">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIgAAAACBgABAAAACAFgACAAAAAAAAAABAAAACAAA=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.Program">
+    <Position X="15.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.SendEmail">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAABAAAACAAIICAAAAAIFAAAQAAEAAAAI=</HashCode>
+      <FileName>SendEmail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.SendSIR">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAABAAAACCAIICAAAABIFAAAQAAEAAAAI=</HashCode>
+      <FileName>SendSIR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.SendSMS">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAIICAAAAAAFAAAQAAEAAAEI=</HashCode>
+      <FileName>SendSMS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.SendTweet">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAASAAIICAAAAAAFAABQAAEAAAAA=</HashCode>
+      <FileName>SendTweet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.SIR">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>SIR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.SMS">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>SMS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.Tweet">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>Tweet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.ViewMessages">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgQACAAABAAAACAAIBCABAAAARAAAEAAACAAAA=</HashCode>
+      <FileName>ViewMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.ViewTweets">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAAAAAEACAAMACAAAAQBBAAAAAAAABAAA=</HashCode>
+      <FileName>ViewTweets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.Properties.Resources">
+    <Position X="17.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.Properties.Settings">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.ViewEmails">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAACAAAAAAAACAIIACAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewEmails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.ViewMentions">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAIACAAAAAABAAABABAAAAAA=</HashCode>
+      <FileName>ViewMentions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.ViewSIRs">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAKCAAIACAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewSIRs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.ViewSMSTexts">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAAAAAACAAIACAAQAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewSMSTexts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NapierBank.ViewTrending">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgAAACAAMACAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewTrending.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
