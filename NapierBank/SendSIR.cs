@@ -22,6 +22,8 @@ namespace NapierBank
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
+            Functions functions = new Functions();
+
             try
             {
                 string natOfIncident = lstIncident.SelectedItem.ToString();
@@ -32,11 +34,11 @@ namespace NapierBank
                 return;
             }
             string natureOfIncident = lstIncident.SelectedItem.ToString();
-            string messageID = IDCreator();
+            string messageID = functions.IDCreator("R");
             string message = txtMessage.Text;
             string emailAddress = txtEmail.Text;
             string date = dpDate.Value.ToShortDateString();
-            try
+            /*try
             {
                 int sC1 = Int32.Parse(txtSortCode1.Text.TrimStart('0'));
                 int sC2 = Int32.Parse(txtSortCode2.Text.TrimStart('0'));
@@ -46,11 +48,11 @@ namespace NapierBank
             {
                 MessageBox.Show("Invalid sort code. Please try again.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 return;
-            }
-            int sortCode1 = Int32.Parse(txtSortCode1.Text.TrimStart('0'));
-            int sortCode2 = Int32.Parse(txtSortCode2.Text.TrimStart('0'));
-            int sortCode3 = Int32.Parse(txtSortCode3.Text.TrimStart('0'));
-            if((sortCode1.ToString().Length != 2) || (sortCode2.ToString().Length != 2) || (sortCode3.ToString().Length != 2))
+            }*/
+            string sortCode1 = txtSortCode1.Text;
+            string sortCode2 = txtSortCode2.Text;
+            string sortCode3 = txtSortCode3.Text;
+            if((sortCode1.Length != 2) || (sortCode2.Length != 2) || (sortCode3.Length != 2))
             {
                 MessageBox.Show("Invalid sort code. Please try again.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 return;
@@ -72,11 +74,14 @@ namespace NapierBank
             }
             else
             {
+                
+                message = functions.Expand(message);
+
                 List<SIR> sir = new List<SIR>();
                 sir.Add(new SIR()
                 {
-                    messageID = IDCreator(),
-                    messageBody = BodyCreator(message, emailAddress, date, natureOfIncident, sortCode)
+                    messageID = functions.IDCreator("E"),
+                    messageBody = BodyCreator(message, emailAddress, date, natureOfIncident, sortCode) // Has its own body creator
                 });
                 string json = JsonConvert.SerializeObject(sir.ToArray());
 
@@ -89,18 +94,6 @@ namespace NapierBank
                 Close();
             }
             
-        }
-
-        public string IDCreator()
-        {
-            var random = new Random();
-            string s = string.Empty;
-            for (int i = 0; i < 9; i++)
-            {
-                s = String.Concat(s, random.Next(10).ToString());
-            }
-            string id = "E" + s;
-            return id;
         }
 
         private string BodyCreator(string message, string emailAddress, string date, string natureOfIncident, string sortCode)

@@ -45,12 +45,14 @@ namespace NapierBank
             }
             else
             {
-            
+                Functions functions = new Functions();
+                message = functions.Expand(message);
+
                 List<Email> email = new List<Email>();
                 email.Add(new Email()
                 {
-                    messageID = IDCreator(),
-                    messageBody = BodyCreator(message, emailAddress, subject)
+                    messageID = functions.IDCreator("E"),
+                    messageBody = functions.BodyCreator(emailAddress, subject, message, "E")
                 });
                 string json = JsonConvert.SerializeObject(email.ToArray());
 
@@ -63,24 +65,6 @@ namespace NapierBank
                 Close();
             }
             
-        }
-
-        private string IDCreator()
-        {
-            var random = new Random();
-            string s = string.Empty;
-            for (int i = 0; i < 9; i++)
-            {
-                s = String.Concat(s, random.Next(10).ToString());
-            }
-            string fName = "E" + s;
-            return fName;
-        }
-
-        private string BodyCreator(string message, string emailAddress, string subject)
-        {
-            string body = "Sender: " + emailAddress + " - Subject: " + subject + " - Message Text: " + message;
-            return body;
         }
 
         private void btnBack_Click(object sender, EventArgs e)

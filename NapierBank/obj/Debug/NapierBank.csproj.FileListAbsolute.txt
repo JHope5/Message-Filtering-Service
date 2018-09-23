@@ -66,3 +66,27 @@ C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBa
 C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.csproj.CopyComplete
 C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.exe
 C:\Users\Jamie-\Documents\USB Backup\12-03-17\TR1\NapierBank\NapierBank\NapierBank\obj\Debug\NapierBank.pdb
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\bin\Debug\NapierBank.exe.config
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\bin\Debug\NapierBank.exe
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\bin\Debug\NapierBank.pdb
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.csprojAssemblyReference.cache
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.MainMenu.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.Properties.Resources.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.SendEmail.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.SendSIR.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.SendSMS.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.SendTweet.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.ViewEmails.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.ViewMentions.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.ViewMessages.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.ViewSIRs.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.ViewSMSTexts.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.ViewTrending.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.ViewTweets.resources
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.csproj.GenerateResource.cache
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.csproj.CoreCompileInputs.cache
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.csproj.CopyComplete
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.exe
+C:\Users\Jamie-\Desktop\Github\Message-Filtering-Service\NapierBank\obj\Debug\NapierBank.pdb

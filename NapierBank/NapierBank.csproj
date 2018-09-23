@@ -86,6 +86,7 @@
     </Compile>
     <Compile Include="SIR.cs" />
     <Compile Include="SMS.cs" />
+    <Compile Include="Functions.cs" />
     <Compile Include="Tweet.cs" />
     <Compile Include="ViewEmails.cs">
       <SubType>Form</SubType>
